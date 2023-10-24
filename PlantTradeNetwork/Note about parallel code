@@ -1,0 +1,3 @@
+#Code here will be for the work from chapter's 2/3 of the thesis.
+
+Note that the code that runs in parallel was conducted in Linux and from testing, this parallel implementation does not work well in Windows OS.  
